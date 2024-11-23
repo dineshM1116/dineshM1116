@@ -1,0 +1,140 @@
+.backgro{
+	background-color:white;
+	width:100%;
+	height:90px;
+	padding-right:12px;
+	padding-left:12px;
+	margin-right:16px;
+	box-shadow:3px 3px 4px #e6e8eb;
+}
+.pages{
+	margin-left:0px;
+}
+.page{
+	align-items:center;
+	font-size:14px;
+	align-items:center;
+	font-weight:bold;
+	margin-right:15px;
+	margin-left:15px;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-left:4px;
+	border-radius:0px;
+	padding-right:4px;
+}
+li{
+	text-align:center;
+}
+.pageroot1{
+	background-color:#caf3c7;
+	padding-top:10px;
+	padding-bottom:8px;
+	margin-right:5px;
+}
+.pageroot:hover{
+		background-color:#caf3c7;
+		padding-top:10px;
+		padding-bottom:8px;
+}
+.icon{
+	font-size:35px;
+	color:#4267B2;
+}
+.iconroot{}
+.iconsteam{
+	margin-left:0px;
+	margin-top:10px;
+
+}
+.headov{
+	margin-top:16px;
+	margin-bottom:16px;
+}
+h1{
+	text-align:center;
+	text-decoration:underline #046d38;
+	font-size:18px;
+	padding-top:20px;
+	padding-bottom:10px;
+}
+.contentov{
+	margin-top:16px;
+}
+p{
+	margin-top:16px;
+	font-family:"Roboto", "Helvetica", "Arial", sans-serif;
+	text-align:justify;
+	line-height:1.48;
+	font-weight:400px;
+}
+.bgF{
+	background-color:#dff0d8;
+	margin-top:30px;
+    padding:20px;
+	z-index:-1;
+}
+.contain{
+	margin-top:30px;
+}
+.headFletter{
+	color:#046d38;
+	font-weight:bolder;
+}
+.subheading{
+	background-color:#f9faf8;
+	height:250px;
+	z-index:1;
+	margin-right:10px;
+	border-radius:5px;
+	box-shadow:0px 2px 2px #9fa598;
+}
+.subheadcontain{
+	display:flex;
+}
+.table{
+	border:2px #dff0d8;
+	border-style:solid;
+	margin-top:30px;
+}
+.odd{
+	background-color:#dff0d8;
+}
+td{
+	text-align:justify;
+}
+.tdhead{
+	width:30%;
+	font-size:16px;
+	font-weight:bold;
+}
+.table{
+	box-shadow:0px 3px 3px #9fa598;
+}
+.subheading07{
+	display:flex;
+}
+.tdcontent{
+	font-size:0.8em;
+}
+.footerabout{
+	background-color:#384552;
+	margin-top:30px;
+}
+.footerrow{
+	margin-left:100px;
+	margin-right:70px;
+}
+.footertxt{
+	font-size:14px;
+	color:white;
+	text-decoration:none;
+	padding:16px;
+}
+.footertxt:hover{
+	color:white;
+	text-decoration:underline white;
+}
+.footercol{
+	padding:16px;
+}

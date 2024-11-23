@@ -1,0 +1,275 @@
+	.backgro{
+	background-color:white;
+	width:100%;
+	height:90px;
+	padding-right:12px;
+	padding-left:12px;
+	margin-right:16px;
+	box-shadow:3px 3px 4px #e6e8eb;
+}
+.logo{
+	padding-top:-10px;
+}
+.SCFLEX{
+	display:;
+}
+.SCCOL{
+	margin-right:px;
+}
+.pages{
+	margin-left:0px;
+}
+.page{
+	align-items:center;
+	font-size:14px;
+	align-items:center;
+	font-weight:bold;
+	margin-right:15px;
+	margin-left:15px;
+	margin-top:10px;
+	margin-bottom:10px;
+	padding-left:4px;
+	border-radius:0px;
+	padding-right:4px;
+}
+li{
+	text-align:center;
+}
+.pageroot1{
+	background-color:#caf3c7;
+	padding-top:10px;
+	padding-bottom:8px;
+	margin-right:5px;
+}
+.pageroot:hover{
+		background-color:#caf3c7;
+		padding-top:10px;
+		padding-bottom:8px;
+}
+.icon{
+	font-size:35px;
+	color:#4267B2;
+}
+.iconroot{}
+.iconsteam{
+	margin-left:0px;
+	margin-top:-15px;
+
+}
+.DC{
+	display:inline-block;
+	padding-top:5px;
+}
+.DCrow{
+	background-color:#60c85d;
+	position:relative;
+	width:3000px;
+}
+.DCcontain{
+	margin-top:-20px;
+	color:white;
+	overflow:hidden;
+}
+.shopingimg{
+	box-shadow:2px 2px 5px #f2f6bb;
+}
+.quicklink{
+	text-align:center;
+	text-decoration:underline #1f661a 3px;
+	font-size:18px;
+	padding-top:20px;
+}
+.supplierrow{
+	margin-top:10px;
+}
+.suppliesimg{
+	border-top-left-radius:5px;
+	border-bottom-left-radius:5px;
+}
+strong{
+	font-weight:700px;
+}
+.showproduct{
+	padding-top:20px;
+}
+.suppliercontain{
+	box-shadow:3px 3px 3px #bac4b9;
+	margin-top:20px;
+	padding:20px;
+	border-bottom-right-radius:5px;
+	border-top-right-radius:5px;
+}
+.OA{
+	width:190px;
+	background-color:#60c85d;
+	color:white;
+	font-weight:bold;
+	border:2px #60c85d;
+	border-radius:18px;
+	margin-top:20px;
+	padding:5px;
+	box-shadow:2px 2px 5px #bac4b9; 
+}
+.OA:hover{
+	background-color:#429739;
+}
+.landloard{
+	margin-top:30px;
+	box-shadow:3px 3px 3px #bac4b9;
+	padding:20px;
+}
+.landloardimg{
+	margin-left:80px;
+	border-bottom-right-radius:5px;
+	border-top-right-radius:5px;
+}
+.AN{
+	width:120px;
+	background-color:#60c85d;
+	color:white;
+	font-weight:bold;
+	border:2px #60c85d;
+	border-radius:18px;
+	margin-top:20px;
+	padding:5px;
+	box-shadow:2px 2px 5px #bac4b9; 
+}
+.AN:hover{
+	background-color:#429739;
+}
+.RM{
+	width:120px;
+	background-color:#60c85d;
+	color:white;
+	font-weight:bold;
+	border:2px #60c85d;
+	border-radius:18px;
+	margin-top:20px;
+	padding:5px;
+	box-shadow:2px 2px 5px #bac4b9; 
+}
+.RM:hover{
+	background-color:#429739;
+}
+.captiontext{
+	font-weight:400px;
+	line-height:1.5;
+	word-spacing:0.9em;
+}
+.newbranch{
+	margin-top:30px;
+}
+.NS{
+	text-align:center;
+	text-decoration:underline #1f661a 3px;
+}
+.newstore{
+	margin-top:0px;
+}
+h4{
+	font-weight:bold;
+}
+.capimg{
+	border-radius:3px;
+	    img{
+			border-bottom-left-radius:5px;
+			border-bottom-right-radius:5px;	
+		}
+}
+.capimg:hover{
+	box-shadow:2px 2px 3px 2px #bac4b9;
+}
+.SCcontainer{
+	margin-left:15px;
+	margin-right:15px;
+}
+.SCcap{
+	background-color:#374553;
+	color:white;
+	position:absolute;
+	font-weight:bold;
+	font-size:14px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;	
+	opacity:0.8;
+	width:100%;
+	text-align:center;
+	padding:8px;
+	line-height:1.5;
+	bottom:0;
+	margin:0;
+}
+.SCROW1{
+	margin-top:30px;
+}
+.SCIMG{
+	border-radius:8px;
+}
+.SCFLEX{
+	display:flex;
+}
+.SCCOL{
+	margin-right:20px;
+}
+.contact{
+	background-image:url("image/locationimg.jpg");
+	margin-top:60px;
+	padding:20px;
+}
+i{
+	font-size:25px;
+	color:white;
+	line-height:1.5;
+}
+.headcu{
+	text-align:center;
+	color:white;
+	text-decoration:underline white;
+}
+.cucol,address,a{
+	line-height:1.5;
+	color:white;
+	text-align:center;
+	margin-top:20px;
+}
+.address{
+	text-align:justify !important;
+}
+.phonenum{
+	font-weight:bold;
+	font-size:15px;
+}
+.phonenum:hover{
+	color:white;
+}
+.mailto{
+	font-weight:bold;
+	font-weight:15px;
+}
+.mailto:hover{
+	color:white;
+}
+.address{
+	margin-top:10px;
+}
+.culcolall{
+	margin-top:20px;
+}
+.footercontain{
+	background-color:#384552;
+}
+.footer{
+	font-size:14px;
+	color:white;
+	text-decoration:none;
+	margin-left:60px;
+}
+.footerrow{
+	padding:20px;
+}
+.footercol{
+	padding-left:0px;
+}
+.footerallcol{
+	margin-left:150px;
+}

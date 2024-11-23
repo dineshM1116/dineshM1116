@@ -1,0 +1,72 @@
+.display1{
+	display:flex;
+	display:inline-block;
+}
+.bgnav{
+	background-color:#ffffff;
+	box-shadow:3px 3px 4px #aab2a6;
+	
+}
+.navimg{
+	margin-top:-2px;
+}
+.spaceleftright{
+	margin-left:20px;
+	margin-right:20px;
+	padding-left:15px;
+	padding-right:15px;
+}
+.pageroot{
+	margin-top:0px;
+	margin-right:5px;
+	margin-bottom:0px;
+	padding-top:8px;
+	padding-bottom:10px;
+}
+.pageroot1{
+	background-color:#cdf3ba;
+	background-attachment:fixed;
+	margin-top:0px;
+	margin-right:5px;
+	margin-bottom:0px;
+	padding-top:8px;
+	padding-bottom:10px;
+}
+.pageroot:hover{
+	background-color:#cdf3ba;
+	background-attachment:fixed;
+}
+a{
+	text-decoration:none;
+}
+.icon{
+	font-size:35px;
+	color:#a0d2d1;
+	padding-right:4px;
+	padding-left:4px;
+}
+.pageinner{
+	padding-right:4px;
+	padding-left:4px;
+	font-weight:bold;
+	color: black;
+}
+.page{
+	font-size:14px;
+	font-weight:700px;
+	align-items:center;
+	letter-spacing:0.02857em;
+	font-family:"Roboto", "Helvetica", "Arial", sans-serif;
+	display:inline-flex;
+	justify-content:center;
+	padding-left:4px;
+	padding-right:4px;
+	margin-right:4px;
+}
+.iconpositi{
+	margin-top:0px;
+}
+
+.bga:hover{
+	background-color:#cdf3ba !important;
+}
